@@ -24,3 +24,4 @@ ln -s ~/.vim ~/.config/nvim
 ```
 
 # Screenshots
+Find more,Visite [VIKI](https://www.notion.so/VIM-0490b08cfb3f473da9e041d0e404823d)
